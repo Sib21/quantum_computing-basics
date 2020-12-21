@@ -1,0 +1,21 @@
+An Interactive Introduction to Quantum Computing - Interactive learning for quantum gate computing by David Kemp.
+CNOT - Easy to understand, step by step introduction to quantum computing concepts.
+Chris Ferrie - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
+Documentation for Forest and pyQuil - Tutorials for Rigetti Computing's SDK.
+Documentation for Strawberry Fields - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
+D-Wave Leap - Demos and educational resources as well as access to D-Wave's quantum computer.
+IBM Q Full User Guide - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
+John Preskill's Notes on Quantum Computation - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
+Nielsen and Chuang - Worked examples on quantum algorithm problems.
+Qiskit Tutorials - Jupyter notebooks simply demonstrating how to use Qiskit.
+Quantum Algorithm Implementations for Beginners - A brif survey of 20 different quantum algorithms using qiskit.
+Quantum Algorithm Zoo - Comprehensive catalog of quantum algorithms.
+Quantum Computer Programming - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
+Quantum Computing Playground - 3D quantum state visualisation tool able to simulate up to 22 qubits.
+Quantum Computing UK - Free Qiskit tutorials and code repository
+Quantum Computing for the Very Curious - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
+Quantum in the Cloud - Four qubit photonic quantum simulator and computer.
+Quantum Katas - Programming exercises for learning quantum computing and Q#.
+Quantum Machine Learning for Data Scientists - Explanation of quantum machine learning algorithms.
+Quirk - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
+The Quantum Quest - Introductory web class on quantum computing principles designed for high school students.
